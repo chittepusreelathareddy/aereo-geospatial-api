@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn>=0.28
+geopandas>=0.14
+shapely>=2.0.3
+pyproj>=3.6.1
+pyogrio>=0.7
+pydantic>=2.6
+python-multipart>=0.0.9
+pandas>=2.0
+# tests
+pytest>=8
+httpx>=0.27
