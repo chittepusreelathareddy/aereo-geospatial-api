@@ -35,3 +35,13 @@ curl localhost:8000/api/files/<id>/measurements/
 ## Known limitations / next steps
 - Storage is in-memory (`FILE_STORE`); swap for PostgreSQL/PostGIS + background processing for large files.
 - No auth or upload size limit yet.
+
+## Screenshots
+
+![API screenshot 1](images/api-screenshot-1.png)
+
+![API screenshot 2](images/api-screenshot-2.png)
+
+![API screenshot 3](images/api-screenshot-3.png)
+
+![API screenshot 4](images/api-screenshot-4.jpg)
